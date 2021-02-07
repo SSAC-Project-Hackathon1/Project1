@@ -12,19 +12,19 @@ https://www.kaggle.com/ivoryrabbit/a-note-on-using-a-single-model-xgboost
 https://www.kaggle.com/chocozzz/house-price-prediction-eda-updated-2019-03-12  
 
 
-볼만한 사이트 
-https://subinium.github.io/kaggle-tips/
+볼만한 사이트   
+https://subinium.github.io/kaggle-tips/  
 
-https://backlog.com/git-tutorial/kr/stepup/stepup2_1.html
+https://backlog.com/git-tutorial/kr/stepup/stepup2_1.html  
 
-https://campus.datacamp.com/courses/winning-a-kaggle-competition-in-python/dive-into-the-competition?ex=4
-
-
-https://velog.io/@kwonhl0211/Hello-Kaggle-%EC%BA%90%EA%B8%80%EC%9D%B4-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BA%90%EA%B8%80-%EA%B0%80%EC%9D%B4%EB%93%9C
+https://campus.datacamp.com/courses/winning-a-kaggle-competition-in-python/dive-into-the-competition?ex=4  
 
 
-https://zzsza.github.io/data/2018/09/04/kaggle-tips-and-review/
+https://velog.io/@kwonhl0211/Hello-Kaggle-%EC%BA%90%EA%B8%80%EC%9D%B4-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BA%90%EA%B8%80-%EA%B0%80%EC%9D%B4%EB%93%9C  
 
-https://seomal.org/?i=GIT1
 
-https://rogerdudler.github.io/git-guide/index.ko.html
+https://zzsza.github.io/data/2018/09/04/kaggle-tips-and-review/  
+
+https://seomal.org/?i=GIT1  
+
+https://rogerdudler.github.io/git-guide/index.ko.html  
