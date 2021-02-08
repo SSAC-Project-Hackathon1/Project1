@@ -28,3 +28,16 @@ https://zzsza.github.io/data/2018/09/04/kaggle-tips-and-review/
 https://seomal.org/?i=GIT1  
 
 https://rogerdudler.github.io/git-guide/index.ko.html  
+
+
+
+# 시계열 K-FOLD 설명글 주소
+
+https://medium.com/@soumyachess1496
+
+https://towardsdatascience.com/time-series-nested-cross-validation-76adba623eb9
+
+
+# stacking 앙상블
+
+https://lsjsj92.tistory.com/558
