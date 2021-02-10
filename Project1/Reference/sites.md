@@ -29,6 +29,11 @@ https://seomal.org/?i=GIT1
 
 https://rogerdudler.github.io/git-guide/index.ko.html  
 
+시각화 참고
+https://github.com/DaielChom/ann-predict-future-sales   
+
+
+
 
 
 # 시계열 K-FOLD 설명글 주소
